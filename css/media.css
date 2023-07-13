@@ -147,6 +147,9 @@
     .navbar-brand img {
         width: 50px;
     }
+    .hero_content h1 {
+    font-size: 25px;
+}
 
     .top_number {
         display: none;
